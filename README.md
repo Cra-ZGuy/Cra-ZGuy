@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cra-ZGuy
 - 👀 I’m interested in Minecraft Stuff
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on Minecraft Maps
 - 📫 Reach me at Cra-ZGuy#0001 on Discord
